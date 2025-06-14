@@ -2,5 +2,4 @@
 PACKAGE_VERSION = "1.0.0"
 
 ## Control imports
-from .config import *
-from .logging import logging
+from .admin import *

@@ -1,6 +1,6 @@
 # Environment settings
 class EnvSettings:
-    debug: bool = False
+    debug: bool = True
     env: str = "dev"
     db_connect: bool = True
 
